@@ -1,0 +1,85 @@
+body {
+  font-size: 32px; }
+
+.title {
+  text-align: center; }
+
+.icon {
+  width: 80px;
+  height: auto; }
+
+.pane {
+  text-align: center; }
+
+.photodiv {
+  text-align: center; }
+
+.photo {
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+  width: 200px; }
+
+.vuosi {
+  background-color: #660000;
+  display: inline-block;
+  color: #fff;
+  padding: 2px 15px;
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
+  font-style: italic; }
+
+.right {
+  text-align: right; }
+
+.subtitle {
+  text-align: center; }
+
+.filter-div ul {
+  text-align: center;
+  margin-bottom: 20px; }
+
+.filter-div li {
+  list-style-type: none;
+  display: inline-block;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  cursor: pointer;
+  margin: 0 10px;
+  font-size: 12px; }
+  .filter-div li .active {
+    border-bottom: 1px solid #660000; }
+
+.portfolio-img {
+  width: 100%; }
+
+#portfolio-div .mix {
+  display: none; }
+
+.input {
+  width: 100%;
+  border: 1px solid #eee;
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
+  padding: 5px 10px;
+  margin-bottom: 20px; }
+
+textarea {
+  height: 100px; }
+
+.button {
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
+  padding: 10px 20px;
+  border: 1px solid #eee;
+  float: right; }
+
+.owl-carousel img {
+  width: auto;
+  height: 100px; }
+
+.footer {
+  background: #444; }
+
+section {
+  padding-top: 50px;
+  padding-bottom: 50px; }
